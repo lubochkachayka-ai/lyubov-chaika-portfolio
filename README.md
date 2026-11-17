@@ -2,7 +2,7 @@
 
 Адаптивный сайт веб-дизайнера Любови Чайки на основе финальной 25-слайдовой презентации.
 
-**Сайт:** https://lubochkachayka-ai.github.io/lyubov-chaika-portfolio/
+**Целевой адрес GitHub Pages:** https://lubochkachayka-ai.github.io/lyubov-chaika-portfolio/
 
 ## Что внутри
 

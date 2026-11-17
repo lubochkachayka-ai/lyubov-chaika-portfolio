@@ -5,3 +5,5 @@
 @media(max-width:380px){.hero-title .surname{font-size:1.05em}}
 
 .project-grid.is-filtered .project{grid-column:span 6}.project-grid[data-count="1"] .project{grid-column:span 12}.project-grid[data-count="1"] .project-media{aspect-ratio:2}.gallery-item:last-child:nth-child(even){grid-column:1/-1}
+
+.case-live{margin-top:-25px;margin-bottom:45px}
