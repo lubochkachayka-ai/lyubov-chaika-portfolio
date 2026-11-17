@@ -1,1 +1,1 @@
-{"name":"lyubov-chaika-portfolio","version":"1.0.0","private":true,"description":"Портфолио Любови Чайки — веб-дизайн и айдентика","scripts":{"build":"node scripts/build.mjs","check":"node --check docs/assets/app.js && python scripts/check-site.py"}}
+{"name":"portfolio-chaika-web-designer","version":"1.0.0","private":true,"description":"Портфолио Любови Чайки — веб-дизайн и айдентика","scripts":{"build":"node scripts/build.mjs","check":"node --check docs/assets/app.js && python scripts/check-site.py"}}

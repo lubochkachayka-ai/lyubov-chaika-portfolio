@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://lubochkachayka-ai.github.io/lyubov-chaika-portfolio/sitemap.xml
+Sitemap: https://lubochkachayka-ai.github.io/portfolio-chaika-web-designer/sitemap.xml
